@@ -47,14 +47,14 @@ body {
 
   .event-section {
     padding: 20px;
-    background: #cfcafa;
+    background: #9089ce;
   }
 
   .event {
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 20px;
-    background: white;
+    background: #e3e0f8;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
     overflow: hidden;
